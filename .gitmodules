@@ -1,0 +1,3 @@
+[submodule "ejabberd"]
+	path = ejabberd
+	url = https://github.com/processone/ejabberd.git
